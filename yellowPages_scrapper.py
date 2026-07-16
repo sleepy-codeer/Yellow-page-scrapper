@@ -98,7 +98,7 @@ while page <= 3:
             "Website": site
         })
     
-    time.sleep(1.5)
+    time.sleep(1.4)
     page += 1
 
 print("\nScrape Complete! Exporting to CSV...")
